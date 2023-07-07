@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BE1642E6-952F-47F3-86C7-A867298490C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkInsertCsv.API", "src\BulkInsertCsv.API\BulkInsertCsv.API.csproj", "{D6A581C8-55F1-49A7-BDFE-3B7448E4241D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A581C8-55F1-49A7-BDFE-3B7448E4241D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A581C8-55F1-49A7-BDFE-3B7448E4241D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A581C8-55F1-49A7-BDFE-3B7448E4241D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A581C8-55F1-49A7-BDFE-3B7448E4241D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6A581C8-55F1-49A7-BDFE-3B7448E4241D} = {BE1642E6-952F-47F3-86C7-A867298490C7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9104991B-BFF4-44F6-AFC9-AAEB9C850629}
+	EndGlobalSection
+EndGlobal

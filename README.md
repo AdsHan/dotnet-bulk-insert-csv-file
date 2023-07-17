@@ -4,7 +4,7 @@ Demonstração da utilização do pacote CsvHelper na leitura de arquivos CSV pa
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
 - Baixar o .Net Core SDK e o Visual Studio / Code mais recentes.
-- Fazer o download do arquivo CSV de exemplo em https://www.datablist.com/learn/csv/download-sample-csv-files#organizations-dataset
+- Fazer o download de um arquivo CSV exemplo em https://www.datablist.com/learn/csv/download-sample-csv-files#organizations-dataset
 
 # Sobre
 Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).

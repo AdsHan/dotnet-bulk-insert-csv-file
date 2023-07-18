@@ -7,4 +7,4 @@ Demonstração da utilização do pacote CsvHelper na leitura de arquivos CSV pa
 - Fazer o download de um arquivo CSV exemplo [AQUI](https://www.datablist.com/learn/csv/download-sample-csv-files#organizations-dataset).
 
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE). 

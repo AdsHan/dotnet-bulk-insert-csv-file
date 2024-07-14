@@ -1,5 +1,5 @@
 # dotnet-bulk-insert-csv-file
-Demonstração da utilização do pacote CsvHelper na leitura de arquivos CSV para posterior inserção de registros em massa (BulkInsert).
+Demonstração do uso do pacote CsvHelper para ler arquivos CSV e realizar inserções em massa (BulkInsert) de registros em uma aplicação .NET.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
